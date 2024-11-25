@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/space shooter temps r\xE9el.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
